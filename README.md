@@ -2,6 +2,8 @@
 
 Learn HTML step-by-step with simple code examples. Each folder represents a lesson with hands-on examples.
 
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@CodeOrCreate)
+
 🔗 **Watch our tutorials on YouTube:** [@CodeOrCreate](https://youtube.com/@CodeOrCreate)
 📷 **Follow us on Instagram:** [@CodeOrCreate](https://instagram.com/CodeOrCreate)
 🐦 **Follow us on X:** [@CodeOrCreate](https://x.com/CodeOrCreate)
